@@ -7,7 +7,7 @@
 - Graduate in Software Engineering at IJSE 👨‍🎓
 - Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS
 - Design Skills : *AdobeXD, Figma
-- - How to reach me : jeewanthamadu2000@gmail.com & ⚡ My WhatsApp : +94 765890563
+- How to reach me : jeewanthamadu2000@gmail.com & ⚡ My WhatsApp : +94 765890563
 
 ```java
 public class AboutMe {
